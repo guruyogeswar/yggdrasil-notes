@@ -97,4 +97,4 @@ The code is research-grade. It works, but it prioritizes scientific utility over
 ## Contact
 
 Guru Yogeswar Reddy  
-gravience.com
+guruyogeswar@gmail.com
